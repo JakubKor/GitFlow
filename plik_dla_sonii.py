@@ -1,2 +1,2 @@
 def metoda_sonii():
-    pass
+    print("hello Kuba")
